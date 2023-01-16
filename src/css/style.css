@@ -92,9 +92,10 @@ table td img {
     border-radius: 3px;
 }
 
-.aprovado{
+.aprovado {
     background-color: #009432;
 }
-.reprovado{
+
+.reprovado {
     background-color: #ff0e05;
 }
